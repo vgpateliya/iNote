@@ -29,14 +29,6 @@ export const Navbar = () => {
               <li className="nav-item">
                 <Link
                   className={`nav-link text-light btn btn-outline-primary m-1`}
-                  aria-current="page"
-                  to="/">
-                  Home
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  className={`nav-link text-light btn btn-outline-primary m-1`}
                   to="/about">
                   About
                 </Link>
